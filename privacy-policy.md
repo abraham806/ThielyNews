@@ -1,5 +1,5 @@
 Politique de Confidentialité (Privacy Policy)
-Politique de Confidentialité de [Nom de ton application]
+Politique de Confidentialité de Thiely News
 Dernière mise à jour : 14/09/2026
 Bienvenue sur Thiely News. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos informations lorsque vous utilisez notre service, notamment via notre intégration avec TikTok.
 1. Données que nous collectons Lorsque vous vous connectez via TikTok, nous demandons uniquement les autorisations nécessaires au fonctionnement de l'application (ex: informations publiques du profil). Nous ne collectons pas vos mots de passe TikTok.
